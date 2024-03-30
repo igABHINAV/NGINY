@@ -10,11 +10,11 @@ The `load-balancer-without-cache.js` file implements a basic load balancer using
 
 To test the functionalities, execute the following command:
 
-- `cd client` && `npm install`
-- `npm run dev`
-- Then similarly `cd ..` and `cd server` and run the server as `node index.js`
-- Then open the main directory of NGINY
-- Then execute `node <filename>` to test the functionalities.
+- `cd NGINY`
+- `npm install`
+- Then write  your backend server URL in `servers = []` by removing the existing URLs .
+- `node <filename>`
+- NOTE : The client and server folders are only for demonstration .
 
   
 
