@@ -40,5 +40,5 @@ const server = http.createServer((req, res) => {
 
 // Listen on port 8000 for incoming requests
 server.listen(8000, () => {
-  console.log('Load balancer server running on port 8000');
+  console.log('Load balancer without cache server running on port 8000');
 });
