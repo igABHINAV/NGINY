@@ -9,6 +9,8 @@
   "author": "ABHINAV KUMAR",
   "license": "ISC",
   "dependencies": {
+    "async": "^3.2.5",
+    "axios": "^1.6.8",
     "cors": "^2.8.5",
     "http": "^0.0.1-security",
     "http-proxy": "^1.18.1",
